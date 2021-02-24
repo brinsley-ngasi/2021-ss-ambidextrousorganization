@@ -8,6 +8,8 @@ One thing please,
 
 Let's create a "coursework.md" file and work on our task.
 
-We can meet today to do that and devide our tasks accordingly.
+We can meet today to do that and divide our tasks accordingly.
 
+19.00 O'Clock wouldn't be bad.
 
+See you then.
