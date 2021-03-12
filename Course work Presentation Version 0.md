@@ -2,26 +2,64 @@
 
 # Ambidextrous Organization
 
+## Table of content
+
+
+
+
+---
+
+## Quote
+
+It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.
+		“Charles Darwin (1809–1882), English naturalist”
+
+---
+
 ## Introduction
 
-- General managers and corporate executives  focus on the products and processes of the past, while at the same time gaze forward, preparing for future innovations.
+- All Managers face problems in implementing innovation and change.
 
-- This mental balancing act requires executives to explore new opportunities as well as work diligently to exploit existing capabilities.
+    But why is this problem persistent? Why is it so difficult for most successful organizations to overcome these problems? Why are the patterns of success - and failures so prevalent across industries?
 
-- Not all organizations that tries to be ambidextrous succeed.
+- To remain successful over a long period of time, managers and organizations must be ambidextrous i.e They must be able to implement both incremental and revolutionary changes.
 
 ---
+
+## Question
+
+- Do you find a juggler who is very good at manupulating a single ball interesting?
+- Of course the answer is no… It is only when the juggler can handle multiple balls at one time that his or her skill is respected.
+
+---
+
 ## Definition
 
-Ambidextrous organizations are firms that are capable of exploiting existing competencies as well as exploring new opportunities with equal dexterity.
+Ambidextrous organization is a firm that is:
+1. capable of exploiting existing competencies as well as exploring new opportunities with equal dexterity.
+1. able to implement both incremental and revolutionary changes.
 
 ---
 
-## Exploration and exploitation
+## Exploitation vs Exploration
 
-- Exploration is created by variety of experimentation and a curiosity for testing new ideas.
+### Exploitation
 
-- Exploitation, on the other hand, is created by refinement, efficiency, convergent thinking and continuous improvement of products.
+- Refers to the process of permanently improving products and  services to strengthen the company’s competitive position. 
+- Never ending request for raising quality standards , increasing efficiency , achieving better and cheaper value proposition
+- Sustained renewal based on factual information (e.g. customer feedback and market research ) as well as ideas from within and outside the firm.
+- Companies need to improve to remain competitive and not to lag behind and therefore the need for exploitation.
+- It is necessary to ensure ongoing improvement of the current business model, elevating current products and services to a higher level of customer satisfaction (sustained/continous renewal).
+
+---
+
+### Exploration
+
+- Refers to the process in which current competitive positions are challenged by introducing new technologies and business models.
+- Disruptive innovations do not follow from the facts but need to be invented,  strategists follow imagination ideas not analyzed into existence but need to be generated.
+- Creative thinking is necessary , strategists abandon the rules governing sound argumentation.
+Dominant logic is challenged.
+- It is necessary to create new business models imposing competitors to follow the new rules of the competitive game (disruptive/discontinous renewal).
 
 ---
 
