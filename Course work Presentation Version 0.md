@@ -110,8 +110,8 @@ Dominant logic is challenged.
 > ### Success and failure stories analyzed
 
 
-|                    | 1             | 2     | 3     | 4     | 5  | Overall performance | 
-| -------------      |:-------------:| -----:| ------| ------|----|---------------------|
-| IBM Life Sciences  | right-aligned | $1600 | ------| ------|----|---------------------|
-| Cisco TelePresence | centered      |   $12 | ------| ------|----|---------------------|
-| Software company   | are neat      |    $1 | ------| ------|----|---------------------|
+|                    | 1          | 2     | 3     | 4     | 5    | Overall performance       | 
+| -------------      |:----------:| -----:| ------| ------|------|---------------------------|
+| IBM Life Sciences  | Yes        | Yes   | Yes   | Yes   |Yes   |Success                    |
+| Cisco TelePresence | Yes        | Yes   | Yes   | Yes   |Yes   |Success                    |
+| Software company   | Yes        | No    | No    | Yes   |No    |Poor Innovation Performance|
