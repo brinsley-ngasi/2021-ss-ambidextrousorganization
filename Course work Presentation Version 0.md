@@ -63,6 +63,13 @@ Dominant logic is challenged.
 
 ---
 
+## Types of ambidexterity
+
+1. Structural
+1. Contextual
+
+---
+
 ## What ambidextrity requires of senior managers
 
 1. They must be able to accurately sense changes in their competitive environment.
