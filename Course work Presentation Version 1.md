@@ -4,8 +4,14 @@
 
 ## Table of content
 
-
-
+1. Introduction/Definition
+1. Diagramatic presentation
+1. Types of ambidextrous organizations
+1. Why do companies choose to go ambidextrous
+1. Case study of an AO:
+1. Challenges faced by an ambidextrous organisation
+1. Summary and conclussion
+1. References/take away message
 
 ---
 
@@ -35,9 +41,22 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## Definition
 
+Ambidexterity – the use of both hands is not a new concept. The word “ambidextrous” is derived from the Latin roots ambi-, meaning “both,” and dexter, meaning “right” or “favorable.” Thus, “ambidextrous” is literally “both right” or “both favora-ble.” 
+
 Ambidextrous organization is a firm that is:
 1. capable of exploiting existing competencies as well as exploring new opportunities with equal dexterity.
 1. able to implement both incremental and revolutionary changes.
+
+an Ambidextrous Organization is an organizational development concept coined by R. Duncan (1976) to indicate an organization’s ability to be aligned and efficient in its management of today’s business demands as well as being adaptive to changes in the external environment.Ambidexterity is achieved by balancing exploration (search, variation, risk taking, experimentation, flexibility, discovery or innovation) with exploitation (refinement, choice, production, efficiency, selection, implementation, and execution).
+---
+## Types of Organizational ambidexterity
+Over the years different types of organizational ambidexterity have appeared.
+Sequential ambidexterity Temporal sequence of exploration and exploitation (e.g. one follows the other)
+1. Structural ambidexterityLocal or organizational separation of exploration and exploitation (e.g. different business units)
+1. Contextual ambidexterityContextual balancing of exploration and exploitation (e.g. simultaneous activities in one organizational unit)
+1. Intellectual ambidexterity Cross-over capability or talent of single persons (For further information read the interview with the American neuroscientist Nancy Andreasen at NPR.org)​​​​​​​​​​​​​​​​​​
+​
+
 
 ---
 
@@ -60,6 +79,26 @@ Ambidextrous organization is a firm that is:
 - Creative thinking is necessary , strategists abandon the rules governing sound argumentation.
 Dominant logic is challenged.
 - It is necessary to create new business models imposing competitors to follow the new rules of the competitive game (disruptive/discontinous renewal).
+
+---
+### Table 1. Comparision between exploitation and exploration
+
+
+
+---
+## The problem is these two things are very different.
+Exploitation is about doing more of the same, only better. Exploration is about doing less of the same and replacing it with new things.
+Exploitation is addictive: we know it works, making it better is cheap, and it relies on streamlining and efficiency. Exploration is uncertain, its payoffs are often unknown and risky, and getting there means using resources to experiment and discover new things.
+
+----
+
+## What can managers do?
+
+- Understand the position and priorities of your company.
+- Understand the context of your company as the route to ambidexterity is not inherently the same or optimal for each organization.
+Analyse what conditions, structures and activities (including rewards and incentives) prioritise either exploitation or exploration in your organization.
+Play the long game, not the short game.
+Engage scholars: ambidexterity is difficult and messy, but essential.
 
 ---
 
