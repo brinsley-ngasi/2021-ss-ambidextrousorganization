@@ -11,12 +11,10 @@ Presented by  Addah Opondo & Brinsley Ngasi
 1. Eploitation vs Exploration
 1. Types of Organizational Ambidexterity
 1. Challenges of Building an Ambidextrous Organization
-1. case study 
+1. Attributes of an Ambidextrous Individual
+1. case study: Renault 
 1. conclusion
 1. References
-
-
-
 
 ---
 
@@ -148,6 +146,15 @@ dominant logic is challenged.
 Conclusion
 
 Established companies in Mature business can revitalise themselves through thier ability to build new businessen without destroying thier traditional business which is the hallmark of an ambidextroux company. Thus, top manager in ambidestrous organisations should adept at structuring the organization to combine organizational seperation at business level at thesame time intergrated at business Level.
+
+---
+
+## Attributes of an ambidextrous Individual
+
+1. They take the initiative.
+1. They are cooperative.
+1. They are brokers.
+1. They are multitaskers.
 
 ## Case Study: Renault
 - Is a French Automobile manufacturer established in 1899.
