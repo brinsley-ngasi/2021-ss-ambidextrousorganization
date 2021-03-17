@@ -124,6 +124,7 @@ QUESTIONS?
 ## References
 
 - https://hbr.org/2004/04/the-ambidextrous-organization
+- https://www.london.edu/think/organisational-ambidexterity
 
 
 ---
