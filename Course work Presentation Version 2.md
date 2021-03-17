@@ -7,7 +7,7 @@ Presented by  Addah Opondo & Brinsley Ngasi
 
 ## Table of content
 1. Introduction
-1. What is an Ambidextrous Organization ?
+1. Definition
 1. Eploitation vs Exploration
 1. Types of Organizational Ambidexterity
 1. Challenges of Building an Ambidextrous Organization
@@ -44,7 +44,7 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## What is an Ambidextrous Organization ?
 
----Diegram i drew with hand ---
+---Diagram i drew with hand ---
 
 
 Establishment of project teams that are structurally independent units, each having its own processes, structures and cultures that are intergrated into the existing management hierachy. 
