@@ -96,18 +96,20 @@ Exploration                                            | Exploitation           
 
 ## Case Study: Renault
 
-- Is a French Automobile manufacturer established in 1899.
-- It went through a radical transformation during the 1990s. 
-- Louis Schweitzer acted as the CEO in 1992, a time when the company was languishing. 
-- Cut costs through a number of well publicized plant closures.
+- Established in 1899.
+- Radical transformation 1990s. 
+- Louis Schweitzer CEO in 1992
+- Costs reduction.
 - Invested in new product development.
-- Searched for a strategic partner.
-- It gained control of Nissan in 1998.
-- By 2001, most profitable Auto companies in the world.
+- strategic partnerships.
+- Gain control of Nissan in 1998.
+- 2001, most profitable Auto companies in the world.
 
 ---
 
-## Renault: How did the transformation take place?
+##  How did the Renault transformation take place?
+
+Icon
 
 ---
 
