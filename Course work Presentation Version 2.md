@@ -59,14 +59,24 @@ Establishment of project teams that are structurally independent units, each hav
 
 ## Exploitation vs Exploration
 
---- preferably on a table  Eploration vs Eploitation
+- Exploration refers to the discovery of new products, resources, knowledge and opportunities, and it is associated with radical changes and learning through experimentation.
+- Exploitation refers to the refinement of existing products, resources, knowledge and competencies, and is associated with incremental changes and learning through local search.
+
+|Exploration                                            | Exploitation                         |
+| -------------                                         |:------------------------------------:|
+| Unknown needs to be discovered or explored.           | Known needs to be exploited          |
+| Risk taking, experimentation, discovery, & innovation.| refinement, efficiency, selection, implementation & execution.|
+| learning process involves following a new trajectory. | Yes        |
+| Software company                                  | Yes         |
+
+---
 
 ### Exploitation
 
--  Improving products and  services  
-- Contineous request for raising quality 
+- Improving products and  services. 
+- Continuos request for raising quality.
 - renewal based on ideas from within and outside the firm.
--  Improvement of the current business model
+- Improvement of the current business model
 - Cost, profit
 - Authoritative, Topdown
 - Low Risk
