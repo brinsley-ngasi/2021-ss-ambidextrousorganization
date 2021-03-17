@@ -65,8 +65,14 @@ Dominant logic is challenged.
 
 ## Types of ambidexterity
 
-1. Structural
-1. Contextual
+
+
+Over the years different types of organizational ambidexterity have appeared.
+- Sequential ambidexterity Temporal sequence of exploration and exploitation (e.g. one follows the other)
+- Structural ambidexterityLocal or organizational separation of exploration and exploitation (e.g. different business units)
+- Contextual ambidexterityContextual balancing of exploration and exploitation (e.g. simultaneous activities in one organizational unit)
+- Intellectual ambidexterity Cross-over capability or talent of single persons (For further information read the interview with the American neuroscientist Nancy Andreasen at NPR.org)​​​​​​​​​​​​​​​​​​
+
 
 ---
 
