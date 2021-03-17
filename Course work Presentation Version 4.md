@@ -121,3 +121,9 @@ Thank You.
 QUESTIONS?
 
 ---
+## References
+
+- https://hbr.org/2004/04/the-ambidextrous-organization
+
+
+---
