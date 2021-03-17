@@ -7,14 +7,16 @@ Presented by  Addah Opondo & Brinsley Ngasi
 
 ## Table of content
 1. Introduction
-1. Definition
+1. What is an Ambidextrous Organization ?
 1. Eploitation vs Exploration
 1. Types of Organizational Ambidexterity
 1. Challenges of Building an Ambidextrous Organization
-1. Attributes of an Ambidextrous Individual
-1. case study: Renault 
+1. case study 
 1. conclusion
 1. References
+
+
+
 
 ---
 
@@ -42,11 +44,7 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## What is an Ambidextrous Organization ?
 
-![Harley driver](i01.jpg)
-
-![Diagram](Exploitation vs Exploration.jpg)
-
----Diagram i drew with hand ---
+---Diegram i drew with hand ---
 
 
 Establishment of project teams that are structurally independent units, each having its own processes, structures and cultures that are intergrated into the existing management hierachy. 
@@ -59,24 +57,14 @@ Establishment of project teams that are structurally independent units, each hav
 
 ## Exploitation vs Exploration
 
-- Exploration refers to the discovery of new products, resources, knowledge and opportunities, and it is associated with radical changes and learning through experimentation.
-- Exploitation refers to the refinement of existing products, resources, knowledge and competencies, and is associated with incremental changes and learning through local search.
-
-|Exploration                                            | Exploitation                         |
-| -------------                                         |:------------------------------------:|
-| Unknown needs to be discovered or explored.           | Known needs to be exploited          |
-| Risk taking, experimentation, discovery, & innovation.| refinement, efficiency, selection, implementation & execution.|
-| learning process involves following a new trajectory. | Yes        |
-| Software company                                  | Yes         |
-
----
+--- preferably on a table  Eploration vs Eploitation
 
 ### Exploitation
 
-- Improving products and  services. 
-- Continuos request for raising quality.
+-  Improving products and  services  
+- Contineous request for raising quality 
 - renewal based on ideas from within and outside the firm.
-- Improvement of the current business model
+-  Improvement of the current business model
 - Cost, profit
 - Authoritative, Topdown
 - Low Risk
@@ -155,36 +143,7 @@ dominant logic is challenged.
 ---
 Conclusion
 
-Established companies in Mature business can revitalise themselves through thier ability to build new businessen without destroying thier traditional business which is the hallmark of an ambidextroux company. Thus, top manager in ambidestrous organisations should adept at structuring the organization to combine organizational seperation at business level at thesame time intergrated at business Level.
-
----
-
-## Attributes of an ambidextrous Individual
-
-1. They take the initiative.
-1. They are cooperative.
-1. They are brokers.
-1. They are multitaskers.
-
-## Case Study: Renault
-- Is a French Automobile manufacturer established in 1899.
-- It went through a radical transformation during the 1990s. 
-- Louis Schweitzer acted as the CEO in 1992, a time when the company was languishing. 
-- Cut costs through a number of well publicized plant closures.
-- Invested in new product development.
-- Searched for a strategic partner.
-- It gained control of Nissan in 1998.
-- By 2001, most profitable Auto companies in the world.
-
----
-## Renault: How did the transformation take place?
-
-- Schweitzer developed a simple and consistent strategy.
-- The strategic planning, budgeting processes, bonuses and the stock option plans were all aligned with these goals.
-- The communication of the message was in the word of one executive.
-- The company developed  ‘’ A deep desire to adapt.’’ attitude.
-- The management style was informal and expressing views was encouraged.
-- Result? An organization that became proficient at continually making small adaptations to its strategy without losing alignment.
+Established companies in Mature business can revitalise themselves through thier ability to build new businessen without destroying thier traditional business which is the hallmark of an ambidextroux company. Thus, top manager in ambidestrous organisations should adept at structuring the organization to combine organizational seperation at business level at thesame time intergrated at business level.
 
 ---
 
