@@ -44,6 +44,10 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## What is an Ambidextrous Organization ?
 
+![Harley driver](i01.jpg)
+
+![Diagram](Exploitation vs Exploration.jpg)
+
 ---Diagram i drew with hand ---
 
 
@@ -144,6 +148,26 @@ dominant logic is challenged.
 Conclusion
 
 Established companies in Mature business can revitalise themselves through thier ability to build new businessen without destroying thier traditional business which is the hallmark of an ambidextroux company. Thus, top manager in ambidestrous organisations should adept at structuring the organization to combine organizational seperation at business level at thesame time intergrated at business Level.
+
+## Case Study: Renault
+- Is a French Automobile manufacturer established in 1899.
+- It went through a radical transformation during the 1990s. 
+- Louis Schweitzer acted as the CEO in 1992, a time when the company was languishing. 
+- Cut costs through a number of well publicized plant closures.
+- Invested in new product development.
+- Searched for a strategic partner.
+- It gained control of Nissan in 1998.
+- By 2001, most profitable Auto companies in the world.
+
+---
+## Renault: How did the transformation take place?
+
+- Schweitzer developed a simple and consistent strategy.
+- The strategic planning, budgeting processes, bonuses and the stock option plans were all aligned with these goals.
+- The communication of the message was in the word of one executive.
+- The company developed  ‘’ A deep desire to adapt.’’ attitude.
+- The management style was informal and expressing views was encouraged.
+- Result? An organization that became proficient at continually making small adaptations to its strategy without losing alignment.
 
 ---
 
