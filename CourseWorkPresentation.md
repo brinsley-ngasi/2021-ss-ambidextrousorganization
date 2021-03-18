@@ -140,7 +140,7 @@ How?
 
 ## Conclusion
 
-Established companies in Mature business can revitalize themselves through their ability to build new businesses without destroying their traditional business which is the hallmark of an ambidextrous company. Thus, top manager in ambidextrous organizations should adept at structuring the organization to combine organizational separation at business level at the same time integrated at business Level.
+Established companies in Mature business can revitalize themselves through their ability to build new businesses without destroying their traditional business which is the hallmark of an ambidextrous company. Thus, top manager in ambidextrous organizations should adapt at structuring the organization to combine organizational separation at management level at the same time integrated at business Level.
 
 ---
 Thank You.
@@ -166,10 +166,15 @@ QUESTIONS?
 
 ---
 
-5. Rodriguez, N.A. (2014). Organizational Ambidexterity. London Business School. Retrieved 18.03.2021 from:
+5.	Petro, Y. (2017). Ambidexterity Through Project Portfolio Management: Resolving Paradoxes in Organizations. Project Management Institute. Retrieved 18.03.2021 from:
+[Ambidextrous Organization research](https://www.pmi.org/-/media/pmi/documents/public/pdf/research/resolving-paradoxes.pdf)
+
+6. Rodriguez, N.A. (2014). Organizational Ambidexterity. London Business School. Retrieved 18.03.2021 from:
 [Ambidextrous Organization research](https://www.london.edu/think/organisational-ambidexterity)
 
-6. Sinha, S. (2015). The Exploration– Exploitation Dilemma: A Review in the Context of Managing Growth of New Ventures. The Journal for Decision Makers 40(3) 313–323. Retrieved 18.03.2021 from:
+--
+
+7. Sinha, S. (2015). The Exploration– Exploitation Dilemma: A Review in the Context of Managing Growth of New Ventures. The Journal for Decision Makers 40(3) 313–323. Retrieved 18.03.2021 from:
 [Ambidextrous Organization research](https://journals.sagepub.com/doi/full/10.1177/0256090915599709)
 
 ---
