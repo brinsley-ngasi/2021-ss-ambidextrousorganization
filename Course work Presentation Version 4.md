@@ -9,7 +9,7 @@ Presented by  Addah Opundo & Brinsley Ngasi
 ## Table of content
 
 1. Introduction/Definition
-1. Exploitation vs Exploration
+1. Exploitation/Exploration
 1. Types of Organizational Ambidexterity
 1. Challenges of Building an Ambidextrous Organization
 1. Conditions for Ambidexterity
@@ -71,6 +71,10 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 | Less certain and distant | Certain & shorter time frame|
 
 ---
+
+## Association between exploration and exploitation
+
+
 
 ## Types of Organizational ambidexterity
 
