@@ -1,6 +1,6 @@
 # 2021-WS: Digital Organization
 
-# Ambidextrous Organization
+## Ambidextrous Organization
 
 Presented by  Addah Opundo & Brinsley Ngasi
 
@@ -55,10 +55,11 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## Exploitation/Exploration Defined
 
-- Exploration refers to the discovery of new products and opportunities.
-- Exploitation refers to the refinement of existing products and competencies.
+- Exploration is the discovery of new products and opportunities.
+- Exploitation is the refinement of existing products and competencies.
 
 ---
+
 ## Exploration versus Exploitation
 
 Exploration         | Exploitation     |
@@ -82,11 +83,11 @@ Exploration         | Exploitation     |
 
 ## Challenges of Building an Ambidextrous Organization
 
-- Eploitation is addictive.
+- Exploitation is addictive.
 - Exploration is uncertain.
-- Breakthrough Innovation in an extablished company is difficult.
-- Multiple cultures within thesame organization.
-- Managerial difficultiies- different cultures an stratergies.
+- Breakthrough Innovation in an established company is difficult.
+- Multiple cultures within the same organization.
+- Managerial difficulties- different cultures an strategies.
 
 ---
 
