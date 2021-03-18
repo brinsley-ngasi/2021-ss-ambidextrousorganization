@@ -74,7 +74,9 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## Association between exploration and exploitation
 
+![Exploration/Exploitation](images/explore_exploit.jpg)
 
+---
 
 ## Types of Organizational ambidexterity
 
