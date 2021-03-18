@@ -139,10 +139,23 @@ Thank You.
 QUESTIONS?
 
 ---
+
 ## References
 
-- https://hbr.org/2004/04/the-ambidextrous-organization
-- https://www.london.edu/think/organisational-ambidexterity
+1. Birkinshaw, J., & Gibson, C. (2004). Building Ambidexterity Into an Organization. MIT Sloan Management Review. Retrieved 13.03.2021 from https://sloanreview.mit.edu/article/building-ambidexterity-into-an-organization/
 
+---
+
+2. O’Reilly III, A. C., & Tushman, L. M. (2011). Organizational Ambidexterity in Action: How managers explore and exploit. University of Carlifonia, Berkely, 4(53). Retrieved 18.03.2021 from https://www.hbs.edu/faculty/Shared%20Documents/conferences/2015-strategy-research/Organizational%20Ambidexterity%20in%20Action.pdf
+
+---
+
+3. O’Reilly III, A. C., & Tushman, L. M. (2004). Innovation: Ambidextrous Organization. Havard Business Review. Retrieved 18.03.2021 from https://hbr.org/2004/04/the-ambidextrous-organization
+
+4. Rodriguez, N.A. (2014). Organizational Ambidexterity. London Business School. Retrieved 18.03.2021 from https://www.london.edu/think/organisational-ambidexterity
+
+---
+
+5. Sinha, S. (2015). The Exploration– Exploitation Dilemma: A Review in the Context of Managing Growth of New Ventures. The Journal for Decision Makers 40(3) 313–323. Retrieved 18.03.2021 from https://journals.sagepub.com/doi/full/10.1177/0256090915599709
 
 ---
