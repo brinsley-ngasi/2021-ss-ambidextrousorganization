@@ -1,17 +1,20 @@
 # 2021-WS: Digital Organization
 
 # Ambidextrous Organization
+
 Presented by  Addah Opundo & Brinsley Ngasi
 
 ---
 
 ## Table of content
+
 1. Introduction/Definition
-1. Eploitation vs Exploration
+1. Exploitation vs Exploration
 1. Types of Organizational Ambidexterity
 1. Challenges of Building an Ambidextrous Organization
+1. Conditions for Ambidexterity
 1. Attributes of an Ambidextrous Individual
-1. case study: Renault 
+1. case study: Renault
 1. conclusion/References
 
 ---
@@ -52,8 +55,8 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## Exploitation/Exploration Defined
 
-- Exploration refers to the discovery of new products, resources, knowledge and opportunities.
-- Exploitation refers to the refinement of existing products, resources, knowledge and competencies.
+- Exploration refers to the discovery of new products and opportunities.
+- Exploitation refers to the refinement of existing products and competencies.
 
 ---
 ## Exploration versus Exploitation
@@ -69,20 +72,31 @@ Exploration         | Exploitation     |
 ---
 
 ## Types of Organizational ambidexterity
-- Structural anbidexterity 
-- Contextual ambidexterity 
-- Sequential ambidexterity
-- Intellectual ambidexterity
+
+- Structural ambidexterity.
+- Contextual ambidexterity.
+- Sequential ambidexterity.
+- Intellectual ambidexterity.
 
 ---
 
 ## Challenges of Building an Ambidextrous Organization
 
-- Eploitation is addictive
-- Exploration is uncertain
-- Breakthrough Innovation in an extablished company is difficult
-- Multiple cultures within thesame organization
-- Managerial difficultiies- different cultures an stratergies
+- Eploitation is addictive.
+- Exploration is uncertain.
+- Breakthrough Innovation in an extablished company is difficult.
+- Multiple cultures within thesame organization.
+- Managerial difficultiies- different cultures an stratergies.
+
+---
+
+## Conditions for Ambidexterity
+
+1. Strategic intent.
+1. Vision and values.
+1. Explicit Senior team.
+1. Separate units.
+1. Ambidextrous Leadership.
 
 ---
 
