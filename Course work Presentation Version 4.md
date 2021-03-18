@@ -47,7 +47,7 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ---
 
-### Ambidextrous Organization: Diagram Representation
+### Ambidextrous Organization: Diagram
 
 ![Diagram](ExploitationVsExploration.jpg)
 
@@ -62,8 +62,8 @@ It is not the strongest of the species that survive, nor the most intelligent, b
 
 ## Exploration versus Exploitation
 
-Exploration         | Exploitation     |
-| -------------     |:----------------:|
+|Exploration         | Exploitation     |
+|:------------------:|:----------------:|
 | Radical changes   | Incremental changes   |
 | Unknown needs     | Known needs         |
 | Experimentation & innovation | refinement & efficiency |
@@ -123,9 +123,11 @@ Exploration         | Exploitation     |
 
 ---
 
-## How did the Renault transformation take place?
+## Renault transformation
 
-?: https://pixabay.com/de/videos/fragezeichen-frage-zeichen-symbol-545//<VIDEO_ID>
+How?
+
+[![Why](images/vid.jpg)](video/why.mp4)
 
 ---
 
@@ -142,20 +144,25 @@ QUESTIONS?
 
 ## References
 
-1. Birkinshaw, J., & Gibson, C. (2004). Building Ambidexterity Into an Organization. MIT Sloan Management Review. Retrieved 13.03.2021 from https://sloanreview.mit.edu/article/building-ambidexterity-into-an-organization/
+1. Birkinshaw, J., & Gibson, C. (2004). Building Ambidexterity Into an Organization. MIT Sloan Management Review. Retrieved 13.03.2021 from:
+[Ambidextrous Organization research](https://sloanreview.mit.edu/article/building-ambidexterity-into-an-organization/)
+
+2.	De Wit, B. (2020). Strategy: An International Perspective (7th edition). Hampshire: CengageLearning
 
 ---
 
-2. O’Reilly III, A. C., & Tushman, L. M. (2011). Organizational Ambidexterity in Action: How managers explore and exploit. University of Carlifonia, Berkely, 4(53). Retrieved 18.03.2021 from https://www.hbs.edu/faculty/Shared%20Documents/conferences/2015-strategy-research/Organizational%20Ambidexterity%20in%20Action.pdf
+3. O’Reilly III, A. C., & Tushman, L. M. (2011). Organizational Ambidexterity in Action: How managers explore and exploit. University of Carlifonia, Berkely, 4(53). Retrieved 18.03.2021 from:
+[Ambidextrous Organization research](https://www.hbs.edu/faculty/Shared%20Documents/conferences/2015-strategy-research/Organizational%20Ambidexterity%20in%20Action.pdf)
+
+4. O’Reilly III, A. C., & Tushman, L. M. (2004). Innovation: Ambidextrous Organization. Havard Business Review. Retrieved 18.03.2021 from:
+[Ambidextrous Organization research](https://hbr.org/2004/04/the-ambidextrous-organization)
 
 ---
 
-3. O’Reilly III, A. C., & Tushman, L. M. (2004). Innovation: Ambidextrous Organization. Havard Business Review. Retrieved 18.03.2021 from https://hbr.org/2004/04/the-ambidextrous-organization
+5. Rodriguez, N.A. (2014). Organizational Ambidexterity. London Business School. Retrieved 18.03.2021 from:
+[Ambidextrous Organization research](https://www.london.edu/think/organisational-ambidexterity)
 
-4. Rodriguez, N.A. (2014). Organizational Ambidexterity. London Business School. Retrieved 18.03.2021 from https://www.london.edu/think/organisational-ambidexterity
-
----
-
-5. Sinha, S. (2015). The Exploration– Exploitation Dilemma: A Review in the Context of Managing Growth of New Ventures. The Journal for Decision Makers 40(3) 313–323. Retrieved 18.03.2021 from https://journals.sagepub.com/doi/full/10.1177/0256090915599709
+6. Sinha, S. (2015). The Exploration– Exploitation Dilemma: A Review in the Context of Managing Growth of New Ventures. The Journal for Decision Makers 40(3) 313–323. Retrieved 18.03.2021 from:
+[Ambidextrous Organization research](https://journals.sagepub.com/doi/full/10.1177/0256090915599709)
 
 ---
