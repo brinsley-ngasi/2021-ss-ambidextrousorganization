@@ -125,7 +125,7 @@ Exploration         | Exploitation     |
 
 ## How did the Renault transformation take place?
 
-Icon
+?: https://pixabay.com/de/videos/fragezeichen-frage-zeichen-symbol-545//<VIDEO_ID>
 
 ---
 
